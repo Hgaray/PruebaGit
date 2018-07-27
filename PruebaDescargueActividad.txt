@@ -1,0 +1,10 @@
+Descarge Masivo de Urbanizaciones.
+
+    Se terminó de procesar el archivo. El número de registros procesados fueron 1,
+    el número de registros procesados y exitosos fueron 0,
+    el número de registros procesados y con inconsistencias fueron 1.
+  
+Inconsistencias al descargar la información.
+1672913	1	4/21/2018 7:00:00 AM	4/21/2018 7:05:00 AM	La entidad del recurso humano debe tener como mínimo un funcionario de la cuadrilla.	
+DN_23MAR2018.OT_ESTADO_SUSPENSIONES_VAL", line 27
+ORA-06512: at line 1	
